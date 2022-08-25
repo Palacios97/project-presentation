@@ -22,13 +22,13 @@ And also, these frameworks/libraries:
 As features I will present the followings:
 -Welcome page
 
-![](/images/welcome-page.jpg)
+![welcome page](/images/welcome-page.jpg)
 
-+User space
+- User space
 
-![](/images/users-page.jpg)
+![users page](/images/users-page.jpg)
 
-+Home, which will include:
+- Home, which will include:
 
 1. Games navigation
 2. Dynamic background
@@ -36,6 +36,6 @@ As features I will present the followings:
 4. Profile space
 5. Selector effects
 
-![](/images/ps5-home.jpg)
+![home page](/images/ps5-home.jpg)
 
-![](/images/profile-page.jpg)
+![profile pages](/images/profile-page.jpg)
