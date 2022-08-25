@@ -36,6 +36,6 @@ As features I will present the followings:
 4. Profile space
 5. Selector effects
 
-![home page](/images/ps5-home.jpg)
+![home page](https://i.pinimg.com/564x/84/6a/6b/846a6bd3130d36184f9e38dcbacf736d.jpg)
 
 ![profile pages](/images/profile-page.jpg)
