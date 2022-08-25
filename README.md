@@ -4,13 +4,20 @@
 
 Welcome to my project presentation.
 In this project I'll have the oportunity to apply the followings technologies:
-+Javascript
-+HTML
-+CSS
+
+- Javascript
+- HTML
+- CSS
+
+---
+
 And also, these frameworks/libraries:
-+Sass
-+REACT
-+NextJS
+
+- Sass
+- REACT
+- NextJS
+
+---
 
 As features I will present the followings:
 -Welcome page
@@ -22,11 +29,12 @@ As features I will present the followings:
 ![](/images/users-page.jpg)
 
 +Home, which will include:
-1.Games navigation
-2.Dynamic background
-3.videos
-4.Profile space
-5.Selector effects
+
+1. Games navigation
+2. Dynamic background
+3. videos
+4. Profile space
+5. Selector effects
 
 ![](/images/ps5-home.jpg)
 
